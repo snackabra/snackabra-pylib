@@ -37,13 +37,13 @@ Developers
 ==========
 
 
-You'll need:
+You'll need (Python 3.8 or higher):
 
 .. code-block:: console
 
    $ python3 -m pip install --upgrade pip
-   $ python3.8 -m venv venv
-   $ source venv/bint/activate
+   $ python3 -m venv venv
+   $ source venv/bin/activate
    $ pip install -r ./requirement.txt
    $ python -m build
 
@@ -61,8 +61,7 @@ should match the overall snackabra version numbers, and "C" simply
 track fixes to the library - ergo the CLI should simply have a
 requirement (for example) ">=0.4.0" if it (the CLI) is version "0.4".
 
-For live update, of course:
-
+For (final) live update, of course:
 
 .. code-block:: console
 
@@ -73,6 +72,8 @@ For live update, of course:
 
 Simple Testing
 --------------
+
+*(Trivial - actual tests real soon now.)*
 
 .. code-block:: console
 		

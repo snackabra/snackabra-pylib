@@ -1,5 +1,5 @@
-LICENSE
-README.md
+LICENSE.md
+README.rst
 pyproject.toml
 setup.cfg
 src/snackabra/__init__.py

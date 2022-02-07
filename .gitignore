@@ -1,0 +1,9 @@
+tmp
+tmp*
+test
+test*
+
+*~
+
+venv
+.secret.*

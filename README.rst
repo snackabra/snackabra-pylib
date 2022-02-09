@@ -12,7 +12,6 @@ This repo contains the Python utility libraries for snackabra.
 For all snackabra documentation, including this pylib API, see:
 
 * https://snackabra.io
-* https://snackabra.github.org
 
 If you would like to contribute or help out with the snackabra
 project, please feel free to reach out to us at snackabra@gmail.com or
